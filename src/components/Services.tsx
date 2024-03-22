@@ -1,5 +1,3 @@
-import Bitcoin from "../assets/bitcoin.svg";
-import Testiomonial from "./Testiomonial";
 const Services = () => {
   return (
     <section className="bg-gray-50 py-5 px-10 md:px-20">
