@@ -5,7 +5,7 @@ import Logo from "../assets/logo.png";
 
 const Footer = () => {
   return (
-    <footer className="container mx-auto grid grid-cols-3 py-8 px-10">
+    <footer className="container mx-auto grid grid-col-1 gap-10 md:grid-cols-3 py-8 px-10">
       <img className="w-14 h-14" src={Logo} alt="logo image" />
       <div>
         <h3 className="font-bold text-lg mb-2">Socials</h3>
